@@ -4,7 +4,9 @@
 
 ### 📈 My Github status:
 ![Apoorv's github && 42 stats](https://github-readme-stats.vercel.app/api?username=achrafelkhnissi&show_icons=true&theme=radical)
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=achrafelkhnissi&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 ### TryHackMe
 
