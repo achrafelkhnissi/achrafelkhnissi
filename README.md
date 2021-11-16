@@ -12,7 +12,7 @@
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/suprivada.png" alt="TryHackMe">
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="achraf-elkhnissi" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ma.linkedin.com/in/achraf-elkhnissi?trk=profile-badge">Achraf E.</a></div>
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
               
 
 <!---
