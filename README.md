@@ -2,10 +2,6 @@
 
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?dark=true&login=ael-khni)](https://github.com/achrafelkhnissi)
 
-<p align="center">
-	<img alt="appinha's visitors" src="https://1337-readme.vercel.app/api/profile?dark=true&login=ael-khni)](https://github.com/achrafelkhnissi" />
-</p>
-
 <!---
 [![achrafelkhnissi's 42 stats](https://badge42.herokuapp.com/api/stats/ael-khni?cursus=C%20reloaded)](https://github.com/achrafelkhnissi)
 
