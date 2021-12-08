@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
 	</a>
 	<span> * </span>
 	<a href="https://twitter.com/su_privada">
-		<img alt="Twitter Profile" src="https://badgen.net/badge/icon/twitter?icon=twitter&label&link=https://twitter.com/su_privada" />
+		<img alt="Twitter Profile" src="https://badgen.net/badge/icon/twitter?icon=twitter&label" />
 	</a>
 </p>
 
