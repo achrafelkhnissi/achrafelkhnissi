@@ -1,6 +1,6 @@
 ### 👨‍💻 My 42 status
 <p align="center">
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?dark=true&login=ael-khni)](https://github.com/achrafelkhnissi)
+[!42 Profile Card](https://1337-readme.vercel.app/api/profile?dark=true&login=ael-khni)](https://github.com/achrafelkhnissi)
 </p>
 
 <!---
