@@ -32,10 +32,12 @@ You can click the Preview link to take a look at your changes.
 	<a href="https://twitter.com/su_privada">
 		<img alt="Twitter Profile" src="https://badgen.net/badge/icon/twitter?icon=twitter&label" />
 	</a>
+		<span> * </span>
+	<a href="https://https://discord.com/users/ael-khni#2244">
+		<img alt="Twitter Profile" src="https://badgen.net/badge/icon/discord?icon=discord&label" />
+	</a>
 </p>
 
-[![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://https://discord.com/)
-[![Twitter](https://badgen.net/badge/icon/twitter?icon=twitter&label)](https://twitter.com/su_privada)
 ---------------
 | [![ael-khni's GitHub stats](https://github-readme-stats.vercel.app/api?username=achrafelkhnissi&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/achrafelkhnissi?tab=repositories) | [![appinha's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=appinha&layout=compact&hide_border=true&theme=jolly)](https://github.com/achrafelkhnissi?tab=repositories) |
 |:-:|:-:|
