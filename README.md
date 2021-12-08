@@ -18,6 +18,22 @@ achrafelkhnissi/achrafelkhnissi is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 
+--------------
+
+<p align="center">
+	<a href="mailto:achraf.elkhnissi@icloud.com">
+		<img alt="Feel free to contact me" src="https://img.shields.io/badge/-Ask_me_anything-blueviolet?style=flat&logo=Gmail&logoColor=white&link=mailto:amanda_pinha@hotmail.com" />
+	</a>
+	<span> * </span>
+	<a href="https://www.linkedin.com/in/achraf-elkhnissi/">
+		<img alt="Linkedin Profile" src="https://img.shields.io/badge/-Linkedin_Profile-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/achraf-elkhnissi/" />
+	</a>
+	<span> * </span>
+	<a href="https://twitter.com/su_privada">
+		<img alt="Twitter Profile" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/su_privada" />
+	</a>
+</p>
+
 ---------------
 | [![ael-khni's GitHub stats](https://github-readme-stats.vercel.app/api?username=achrafelkhnissi&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/achrafelkhnissi?tab=repositories) | [![appinha's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=appinha&layout=compact&hide_border=true&theme=jolly)](https://github.com/achrafelkhnissi?tab=repositories) |
 |:-:|:-:|
