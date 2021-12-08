@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
 	<a href="mailto:achraf.elkhnissi@icloud.com">
-		<img alt="Feel free to contact me" src="https://img.shields.io/badge/-Ask_me_anything-blueviolet?style=flat&logo=Gmail&logoColor=white&link=mailto:amanda_pinha@hotmail.com" />
+		<img alt="Feel free to contact me" src="https://img.shields.io/badge/-Ask_me_anything-blue?style=flat&logo=Gmail&logoColor=white&link=mailto:amanda_pinha@hotmail.com" />
 	</a>
 	<span> * </span>
 	<a href="https://www.linkedin.com/in/achraf-elkhnissi/">
