@@ -1,7 +1,6 @@
-### 👨‍💻 My 42 status
 ## ➜  ~ whoami
->  I am a Computer Science student at [1337](1337.ma) \
->  Interested in CyberSecurity. \
+>  Computer Science student at [1337](1337.ma) \
+>  Interested in CyberSecurity.
 
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?dark=true&login=ael-khni)](https://github.com/achrafelkhnissi)
 <!---
