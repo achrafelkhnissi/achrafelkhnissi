@@ -1,10 +1,9 @@
 ### 👨‍💻 My 42 status
 ## ➜  ~ whoami
 >  I am a Computer Science student at [1337](1337.ma) \
->  Interested in CyberSecurity.
-<p align="right">
-	[![42 Profile Card](https://1337-readme.vercel.app/api/profile?dark=true&login=ael-khni)](https://github.com/achrafelkhnissi)
-</p>
+>  Interested in CyberSecurity. \
+
+[![42 Profile Card](https://1337-readme.vercel.app/api/profile?dark=true&login=ael-khni)](https://github.com/achrafelkhnissi)
 <!---
 [![achrafelkhnissi's 42 stats](https://badge42.herokuapp.com/api/stats/ael-khni?cursus=C%20reloaded)](https://github.com/achrafelkhnissi)
 
