@@ -17,30 +17,6 @@ https://naereen.github.io/badges/
 
 --------------
 
-## Recent GitHub Activity
-
-<!--START_SECTION:activity-->
-`[12/16 19:39]` <img alt="⭐" src="https://github.com/achrafelkhnissi/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [StanTheAwesomeMan/minifetch](https://github.com/StanTheAwesomeMan/minifetch)
-`[11/28 03:53]` <img alt="❗️" src="https://github.com/achrafelkhnissi/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#44`](https://github.com//achrafelkhnissi/ReactionPics/issues/44 'Add "owo" image') in [achrafelkhnissi/ReactionPics](https://github.com/achrafelkhnissi/ReactionPics)
-`[11/19 11:35]` <img alt="📝" src="https://github.com/achrafelkhnissi/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [achrafelkhnissi/ReactionPics](https://github.com/achrafelkhnissi/ReactionPics)
-`[10/30 08:34]` <img alt="🗣" src="https://github.com/achrafelkhnissi/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#20`](https://github.com//loic2665/HeartRateToWeb/issues/20 'Server stops receiving data') in [loic2665/HeartRateToWeb](https://github.com/loic2665/HeartRateToWeb)
-`[10/28 21:48]` <img alt="📝" src="https://github.com/achrafelkhnissi/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [HaileyBot/haileybot.github.io](https://github.com/HaileyBot/haileybot.github.io)
-`[10/18 20:11]` <img alt="🗣" src="https://github.com/achrafelkhnissi/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#117`](https://github.com//HaileyBot/captcha-generator/issues/117 'Bump @types/node from 16.10.2 to 16.11.1') in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)
-`[10/18 20:11]` <img alt="🗣" src="https://github.com/achrafelkhnissi/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#115`](https://github.com//HaileyBot/captcha-generator/issues/115 'Bump mocha from 9.1.2 to 9.1.3') in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)
-`[10/18 20:11]` <img alt="🗣" src="https://github.com/achrafelkhnissi/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#113`](https://github.com//HaileyBot/captcha-generator/issues/113 'Bump typescript from 4.4.3 to 4.4.4') in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)
-`[10/18 20:10]` <img alt="🗣" src="https://github.com/achrafelkhnissi/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#111`](https://github.com//HaileyBot/captcha-generator/issues/111 'Bump ts-node from 10.2.1 to 10.3.0') in [HaileyBot/captcha-generator](https://github.com/HaileyBot/captcha-generator)
-`[10/10 07:52]` <img alt="⭐" src="https://github.com/achrafelkhnissi/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [loic2665/HeartRateToWeb](https://github.com/loic2665/HeartRateToWeb)
-
-<details><summary>Show More</summary>
-
-`[10/09 00:22]` <img alt="❗️" src="https://github.com/achrafelkhnissi/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#3`](https://github.com//achrafelkhnissi/Number-Guesser/issues/3 'plz help!!!!whyyyyyy') in [achrafelkhnissi/Number-Guesser](https://github.com/achrafelkhnissi/Number-Guesser)
-`[10/07 03:56]` <img alt="❗️" src="https://github.com/achrafelkhnissi/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#43`](https://github.com//achrafelkhnissi/ReactionPics/issues/43 'Change "bruh" image') in [achrafelkhnissi/ReactionPics](https://github.com/achrafelkhnissi/ReactionPics)
-
-</details>
-<!--END_SECTION:activity-->
-
---------------
-
 <p align="center">
 	<a href="mailto:achraf.elkhnissi@icloud.com">
 		<img alt="Feel free to contact me" src="https://img.shields.io/badge/-Ask_me_anything-blue?style=flat&logo=Gmail&logoColor=white&link=mailto:amanda_pinha@hotmail.com" />
