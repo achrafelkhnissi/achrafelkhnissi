@@ -17,6 +17,13 @@ https://naereen.github.io/badges/
 
 --------------
 
+### Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+--------------
+
 <p align="center">
 	<a href="mailto:achraf.elkhnissi@icloud.com">
 		<img alt="Feel free to contact me" src="https://img.shields.io/badge/-Ask_me_anything-blue?style=flat&logo=Gmail&logoColor=white&link=mailto:amanda_pinha@hotmail.com" />
