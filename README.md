@@ -20,6 +20,39 @@
 https://naereen.github.io/badges/
 --->
 
+<pre>
+
+┌──┤ WHOAMI ├─────────▰▰▰
+│
+├─▣ Computer Science Student at 1337 Khouribga
+├─▣ From Tetouan Morocco
+├─▣ Interested in CyberSecurity specifically. DevOps, AI, GameDev generally.
+│
+└───────────────────────────────▰▰▰
+
+┌──┤ SOCIAL ├─────────▰▰▰
+│
+├─◈ <a href="https://www.linkedin.com/in/achraf-elkhnissi">LinkedIn</a>
+├─◈ <a href="https://twitter.com/su_privada">Twitter</a>
+├─◈ <a href="https://www.instagram.com/su_privada">Instagram</a>
+├─◈ <a href="https://t.me/su_privada">Telegram</a>
+├─◈ <a href="https://www.facebook.com/su.privada/">Facebook</a>
+├─◈ Discord: ael-khni#2244
+│
+└───────────────────────────────▰▰▰
+
+┌──┤ 42 PROJECTS ├───────▰▰▰
+│
+├─◈ <a href="https://github.com/achrafelkhnissi/1337/tree/master/Piscine-2021">Piscine 2021</a>
+├─◈ <a href="https://github.com/achrafelkhnissi/1337/tree/master/42curses/libft">libft</a>
+├─◈ <a href="https://github.com/achrafelkhnissi/1337/tree/master/42curses/get_next_line">get_next_line</a>
+├─◈ <a href="https://github.com/achrafelkhnissi/1337/tree/master/42curses/ft_printf">ft_printf</a>
+├─◈ <a href="https://github.com/achrafelkhnissi/1337/tree/master/42curses/Born2beRoot">Born2beRoot</a>
+├─◈ <a href="https://github.com/achrafelkhnissi/1337/tree/master/42curses/minitalk">minitalk</a>
+│
+└───────────────────────────────▰▰▰
+</pre>
+
 --------------
 
 <p align="center">
