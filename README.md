@@ -35,8 +35,6 @@ https://naereen.github.io/badges/
 ├─◈ <a href="https://www.linkedin.com/in/achraf-elkhnissi">LinkedIn</a>
 ├─◈ <a href="https://twitter.com/su_privada">Twitter</a>
 ├─◈ <a href="https://www.instagram.com/su_privada">Instagram</a>
-├─◈ <a href="https://t.me/su_privada">Telegram</a>
-├─◈ <a href="https://www.facebook.com/su.privada/">Facebook</a>
 ├─◈ Discord: ael-khni#2244
 │
 └───────────────────────────────▰▰▰
