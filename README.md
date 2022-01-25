@@ -48,6 +48,7 @@ https://naereen.github.io/badges/
 ├─◈ <a href="https://github.com/achrafelkhnissi/1337/tree/master/42curses/Born2beRoot">Born2beRoot</a>
 ├─◈ <a href="https://github.com/achrafelkhnissi/1337/tree/master/42curses/minitalk">minitalk</a>
 ├─◈ <a href="https://github.com/achrafelkhnissi/1337/tree/master/42curses/so_long">so_long</a>
+├─◈ <a href="https://github.com/achrafelkhnissi/1337/tree/master/42curses/push_swap">push_swap</a>
 │
 └───────────────────────────────▰▰▰
 </pre>
