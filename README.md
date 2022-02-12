@@ -60,8 +60,8 @@ https://naereen.github.io/badges/
 		<img alt="Feel free to contact me" src="https://img.shields.io/badge/-Ask_me_anything-blue?style=flat&logo=Gmail&logoColor=white&link=mailto:achraf.elkhnissi@gmail.com" />
 	</a>
 	<span> * </span>
-	<a href="https://www.linkedin.com/in/achraf-elkhnissi/">
-		<img alt="Linkedin Profile" src="https://img.shields.io/badge/-Linkedin_Profile-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/achraf-elkhnissi/" />
+	<a href="https://www.linkedin.com/in/achrafelkhnissi/">
+		<img alt="Linkedin Profile" src="https://img.shields.io/badge/-Linkedin_Profile-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/achrafelkhnissi/" />
 	</a>
 	<span> * </span>
 	<a href="https://twitter.com/su_privada">
