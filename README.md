@@ -7,7 +7,9 @@
 >  Computer Science student at [1337](1337.ma) \
 >  Interested in CyberSecurity.
 
-[![42 Profile Card](https://github.com/achrafelkhnissi/1337/blob/master/Piscine-2021/imgs/42_profile_card.jpeg)
+<p align="center">
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/starryblue/ael-khni" alt="ael-khni's 42 stats" /></a>
+</p>
 <!---
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?dark=true&login=ael-khni)](https://github.com/achrafelkhnissi)
 [![achrafelkhnissi's 42 stats](https://badge42.herokuapp.com/api/stats/ael-khni?cursus=C%20reloaded)](https://github.com/achrafelkhnissi)
