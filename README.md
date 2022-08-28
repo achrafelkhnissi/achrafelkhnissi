@@ -45,6 +45,8 @@
 ├─◈ <a href="https://github.com/achrafelkhnissi/push_swap">push_swap</a>
 ├─◈ <a href="https://github.com/achrafelkhnissi/Philosophers">Philosophers</a>
 ├─◈ <a href="https://github.com/achrafelkhnissi/minishell">minishell</a>
+├─◈ <a href="https://github.com/achrafelkhnissi/cub3d">Cub3D</a>
+├─◈ <a href="https://github.com/achrafelkhnissi/CPP_Modules">CPP_Modules</a>
 │
 └───────────────────────────────▰▰▰
 </pre>
