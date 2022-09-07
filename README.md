@@ -27,7 +27,7 @@
 ┌──┤ SOCIAL ├─────────▰▰▰
 │
 ├─◈ <a href="https://www.linkedin.com/in/achraf-elkhnissi">LinkedIn</a>
-├─◈ <a href="https://twitter.com/su_privada">Twitter</a>
+├─◈ <a href="https://twitter.com/suprivada">Twitter</a>
 ├─◈ <a href="https://www.instagram.com/su_privada">Instagram</a>
 ├─◈ Discord: ashraf#2244
 │
