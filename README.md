@@ -49,6 +49,15 @@
 ├─◈ <a href="https://github.com/achrafelkhnissi/CPP_Modules">CPP_Modules</a>
 │
 └───────────────────────────────▰▰▰
+
+
+┌──┤ COMMUNITY ├─────────▰▰▰
+│
+├─◈ If you need any help please join our community.
+├─◈ <a href="https://discord.gg/vTvkDgsS6J">Discord Server</a>
+│
+└───────────────────────────────▰▰▰
+
 </pre>
 
 --------------
