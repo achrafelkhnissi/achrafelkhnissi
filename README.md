@@ -51,6 +51,15 @@
 └───────────────────────────────▰▰▰
 
 
+┌──┤ ALX PROJECTS ├───────▰▰▰
+│
+├─◈ <a href="https://github.com/achrafelkhnissi/alx-low_level_programming">alx-low_level_programming</a>
+├─◈ <a href="https://github.com/achrafelkhnissi/alx-system_engineering-devops">alx-system_engineering-devops</a>
+├─◈ <a href="https://github.com/achrafelkhnissi/alx-checker">alx-checker</a>
+│
+└───────────────────────────────▰▰▰
+
+
 ┌──┤ COMMUNITY ├─────────▰▰▰
 │
 ├─◈ If you need any help please join our community.
