@@ -73,20 +73,21 @@
 
 <p align="center">
 	<a href="mailto:achraf.elkhnissi@icloud.com">
-		<img alt="Feel free to contact me" src="https://img.shields.io/badge/-Ask_me_anything-blue?style=flat&logo=Gmail&logoColor=white&link=mailto:achraf.elkhnissi@gmail.com" />
+		<img alt="Feel free to contact me" src="https://img.shields.io/badge/-Ask_me_anything-blue?style=flat&logo=Gmail&logoColor=white&link=mailto:achraf.elkhnissi@gmail.com&color=3d85c6" />
 	</a>
 	<span> * </span>
-	<a href="https://www.linkedin.com/in/achrafelkhnissi/">
-		<img alt="Linkedin Profile" src="https://img.shields.io/badge/-Linkedin_Profile-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/achrafelkhnissi/" />
-	</a>
-	<span> * </span>
-	<a href="https://twitter.com/su_privada">
-		<img alt="Twitter Profile" src="https://badgen.net/badge/icon/twitter?icon=twitter&label" />
-	</a>
-		<span> * </span>
-	<a href="https://https://discord.com/users/ael-khni#2244">
-		<img alt="Twitter Profile" src="https://badgen.net/badge/icon/discord?icon=discord&label" />
-	</a>
+    <a href="https://www.linkedin.com/in/achrafelkhnissi/">
+        <img alt="Linkedin Profile" src="https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/achrafelkhnissi/" />
+    </a>
+    <span> * </span>
+    <a href="https://twitter.com/suprivada">
+        <img alt="Twitter Profile" src="https://img.shields.io/badge/-Twitter-0072b1?style=flat&logo=Twitter&logoColor=white&link=https://www.linkedin.com/in/achrafelkhnissi/&color=1DA1F2" />
+    </a>
+    <span> * </span>
+    <a href="https://www.linkedin.com/in/achrafelkhnissi/">
+        <img alt="Discord Profile" src="https://img.shields.io/badge/-Discord-0072b1?style=flat&logo=Discord&logoColor=white&link=https://www.linkedin.com/in/achrafelkhnissi/&color=7289da" />
+    </a>
+
 </p>
 
 ---------------
