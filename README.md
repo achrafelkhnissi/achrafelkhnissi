@@ -4,8 +4,8 @@
 </p>
 
 ## root:~$ whoami
->  Computer Science student at [1337](https://1337.ma/en/) \
->  Interested in CyberSecurity.
+>  Software engineer student at [1337](https://1337.ma/en/) \
+>  “Don’t wait for things to happen. Make them happen.” - Roy Bennett 
 
 
 <p align="center">
@@ -18,9 +18,10 @@
 
 ┌──┤ WHOAMI ├─────────▰▰▰
 │
-├─▣ Computer Science Student at 1337 Khouribga
+├─▣ Software Engineer Student at 1337 Khouribga
 ├─▣ From Tetouan Morocco
-├─▣ Interested in CyberSecurity specifically. DevOps, AI, GameDev generally.
+├─▣ I love to dig deep into complex problems and attempt to find the simplest yet the most effecient solution.
+├─▣ Interested in low-level Programming, CyberSecurity, DevOps, Netwroking, Cloud and AI.
 │
 └───────────────────────────────▰▰▰
 
