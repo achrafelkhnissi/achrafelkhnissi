@@ -28,9 +28,9 @@
 ┌──┤ SOCIAL ├─────────▰▰▰
 │
 ├─◈ <a href="https://www.linkedin.com/in/achraf-elkhnissi">LinkedIn</a>
-├─◈ <a href="https://twitter.com/suprivada">Twitter</a>
-├─◈ <a href="https://www.instagram.com/su_privada">Instagram</a>
-├─◈ Discord: suprivada#2244
+├─◈ <a href="https://twitter.com/ashrafelkhnissi">Twitter</a>
+├─◈ <a href="https://www.instagram.com/achrafelkhnissi">Instagram</a>
+├─◈ Discord: achrafelkhnissi#2244
 │
 └───────────────────────────────▰▰▰
 
@@ -48,6 +48,7 @@
 ├─◈ <a href="https://github.com/achrafelkhnissi/minishell">minishell</a>
 ├─◈ <a href="https://github.com/achrafelkhnissi/cub3d">Cub3D</a>
 ├─◈ <a href="https://github.com/achrafelkhnissi/CPP_Modules">CPP_Modules</a>
+├─◈ <a href="https://github.com/achrafelkhnissi/webserv">Webserv</a>
 │
 └───────────────────────────────▰▰▰
 
