@@ -4,7 +4,8 @@
 </p>
 
 ## root:~$ whoami
->  Software engineer student at [1337](https://1337.ma/en/) \
+>  Software Developer at @ [NTT DATA](https://www.nttdata.com/global/en/) \
+>  [1337](https://1337.ma/en/) Student \
 >  “Don’t wait for things to happen. Make them happen.” - Roy Bennett 
 
 
@@ -18,7 +19,8 @@
 
 ┌──┤ WHOAMI ├─────────▰▰▰
 │
-├─▣ Software Engineer Student at 1337 Khouribga
+├─▣ Software Developer @ NTT DATA
+├─▣ Student at 1337 Khouribga
 ├─▣ From Tetouan Morocco
 ├─▣ I love to dig deep into complex problems and attempt to find the simplest yet the most effecient solution.
 ├─▣ Interested in low-level Programming, CyberSecurity, DevOps, Netwroking, Cloud and AI.
@@ -53,20 +55,14 @@
 │
 └───────────────────────────────▰▰▰
 
-
-┌──┤ ALX PROJECTS ├───────▰▰▰
-│
-├─◈ <a href="https://github.com/achrafelkhnissi/alx-checker">alx-checker</a>
-│
-└───────────────────────────────▰▰▰
-
-
+<!--
 ┌──┤ COMMUNITY ├─────────▰▰▰
 │
 ├─◈ If you need any help please join our community.
 ├─◈ <a href="https://discord.gg/vTvkDgsS6J">Discord Server</a>
 │
 └───────────────────────────────▰▰▰
+-->
 
 </pre>
 
