@@ -22,8 +22,8 @@
 ├─▣ Software Developer @ NTT DATA
 ├─▣ Student at 1337 Khouribga
 ├─▣ From Tetouan Morocco
-├─▣ I love to dig deep into complex problems and attempt to find the simplest yet the most effecient solution.
-├─▣ Interested in low-level Programming, CyberSecurity, DevOps, Netwroking, Cloud and AI.
+├─▣ Up to the challenge.
+├─▣ Interested in low-level Programming, CyberSecurity, DevOps, Netwroking and Web Development.
 │
 └───────────────────────────────▰▰▰
 
