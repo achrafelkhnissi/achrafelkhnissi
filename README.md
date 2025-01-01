@@ -69,7 +69,7 @@
 --------------
 
 <p align="center">
-	<a href="mailto:achraf.elkhnissi@icloud.com">
+	<a href="mailto:achraf.elkhnissi@gmail.com">
 		<img alt="Feel free to contact me" src="https://img.shields.io/badge/-Ask_me_anything-blue?style=flat&logo=Gmail&logoColor=white&link=mailto:achraf.elkhnissi@gmail.com&color=3d85c6" />
 	</a>
 	<span> * </span>
@@ -77,7 +77,7 @@
         <img alt="Linkedin Profile" src="https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/achrafelkhnissi/" />
     </a>
     <span> * </span>
-    <a href="https://twitter.com/suprivada">
+    <a href="https://twitter.com/ashrafelkhnissi">
         <img alt="Twitter Profile" src="https://img.shields.io/badge/-Twitter-0072b1?style=flat&logo=Twitter&logoColor=white&link=https://www.linkedin.com/in/achrafelkhnissi/&color=1DA1F2" />
     </a>
     <span> * </span>
