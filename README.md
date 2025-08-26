@@ -4,7 +4,7 @@
 </p>
 
 ## root:~$ whoami
->  Software Developer at @ [NTT DATA](https://www.nttdata.com/global/en/) \
+>  Software Engineer \
 >  [1337](https://1337.ma/en/) Student \
 >  “Don’t wait for things to happen. Make them happen.” - Roy Bennett 
 
