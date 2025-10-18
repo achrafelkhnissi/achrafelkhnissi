@@ -19,11 +19,11 @@
 
 ┌──┤ WHOAMI ├─────────▰▰▰
 │
-├─▣ Software Developer @ NTT DATA
+├─▣ Software Developer
 ├─▣ Student at 1337 Khouribga
 ├─▣ From Tetouan Morocco
 ├─▣ Up to the challenge.
-├─▣ Interested in low-level Programming, CyberSecurity, DevOps, Netwroking and Web Development.
+├─▣ Interested in AI.
 │
 └───────────────────────────────▰▰▰
 
