@@ -19,7 +19,7 @@
 
 ┌──┤ WHOAMI ├─────────▰▰▰
 │
-├─▣ Software Developer
+├─▣ Software Engineer
 ├─▣ Student at 1337 Khouribga
 ├─▣ From Tetouan Morocco
 ├─▣ Up to the challenge.
